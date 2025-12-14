@@ -1,0 +1,6 @@
+[
+  {
+    "name": "hello-world",
+    "imageUri": "859551917432.dkr.ecr.us-east-2.amazonaws.com/ecs-test-repo"
+  }
+]
